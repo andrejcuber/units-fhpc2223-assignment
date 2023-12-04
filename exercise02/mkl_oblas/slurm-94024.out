@@ -1,7 +1,0 @@
-Loading mkl version 2022.2.1
-Loading tbb version 2021.7.1
-Loading compiler-rt version 2022.2.1
-srun: error: epyc005: task 0: Out Of Memory
-slurmstepd: error: Detected 1 oom-kill event(s) in StepId=94024.1. Some of your processes may have been killed by the cgroup out-of-memory handler.
-srun: error: epyc005: task 0: Out Of Memory
-slurmstepd: error: Detected 1 oom-kill event(s) in StepId=94024.3. Some of your processes may have been killed by the cgroup out-of-memory handler.
