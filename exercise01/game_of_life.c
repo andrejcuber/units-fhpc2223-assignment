@@ -556,10 +556,10 @@ void execute_game_snapshots(char** initial_grid, int* s_counts, int* dispa, int 
         loc_array = next_gen;
         next_gen = tmp;
     }
-
+    /*
     if (rank == 0){
         printf("Total write time: %.3f\n", total_write_time);
-    }
+    }*/
 
     free(top_row);
     free(bottom_row);
@@ -745,8 +745,9 @@ int main(int argc, char **argv){
     if (rank_id == 0){
         //fname = "final.pbm";
         //write_pgm_image(*gather_array, 1, kx, ky, fname);
-        printf("Elapsed time: %.3f\n", local_end-local_start);
-        printf("Max elapsed time: %.3f\n", max_elapsed_time);
+        //printf("Elapsed time: %.3f\n", local_end-local_start);
+        printf("%.3f\n", local_end-local_start);
+        //printf("Max elapsed time: %.3f\n", max_elapsed_time);
         //printf("Elapsed time for barrier and gather: %.3f\n", ((double)(end-start))/CLOCKS_PER_SEC);
     }
 
