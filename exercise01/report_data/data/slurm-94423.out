@@ -1,0 +1,80 @@
+ordered
+MPI+openMP, ntasks=4
+MPI+openMP, threads=1
+73.275
+MPI+openMP, threads=2
+36.520
+MPI+openMP, threads=3
+24.268
+MPI+openMP, threads=4
+18.241
+MPI+openMP, threads=6
+12.473
+MPI+openMP, threads=8
+9.458
+MPI+openMP, threads=10
+7.633
+MPI+openMP, threads=12
+6.363
+MPI+openMP, threads=14
+5.740
+MPI+openMP, threads=16
+4.874
+MPI+openMP, threads=20
+4.284
+MPI+openMP, threads=24
+3.742
+MPI+openMP, threads=28
+3.679
+MPI+openMP, threads=32
+2.664
+MPI+openMP, threads=36
+3.116
+MPI+openMP, threads=40
+6.535
+MPI+openMP, threads=48
+1.911
+MPI+openMP, threads=56
+3.192
+MPI+openMP, threads=62
+2.141
+static
+MPI+openMP, ntasks=4
+MPI+openMP, threads=1
+76.890
+MPI+openMP, threads=2
+40.083
+MPI+openMP, threads=3
+27.926
+MPI+openMP, threads=4
+21.799
+MPI+openMP, threads=6
+16.085
+MPI+openMP, threads=8
+12.502
+MPI+openMP, threads=10
+10.854
+MPI+openMP, threads=12
+9.444
+MPI+openMP, threads=14
+8.951
+MPI+openMP, threads=16
+7.929
+MPI+openMP, threads=20
+8.381
+MPI+openMP, threads=24
+8.884
+MPI+openMP, threads=28
+6.578
+MPI+openMP, threads=32
+5.654
+MPI+openMP, threads=36
+7.391
+MPI+openMP, threads=40
+8.692
+MPI+openMP, threads=48
+4.873
+MPI+openMP, threads=56
+6.542
+MPI+openMP, threads=62
+5.698
