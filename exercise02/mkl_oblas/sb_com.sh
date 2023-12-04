@@ -1,0 +1,4 @@
+sbatch ex2_proc_increase_close_epyc.sh
+sbatch ex2_proc_increase_spread_epyc.sh
+sbatch ex2_proc_increase_close_thin.sh
+sbatch ex2_proc_increase_spread_thin.sh

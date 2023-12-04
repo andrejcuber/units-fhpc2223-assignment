@@ -1,0 +1,4 @@
+sbatch ex2_epyc_close_size.sh
+sbatch ex2_epyc_spread_size.sh
+sbatch ex2_thin_close_size.sh
+sbatch ex2_thin_spread_size.sh

@@ -1,0 +1,4 @@
+sbatch blis_close_epyc_size.sh
+sbatch blis_spread_epyc_size.sh
+sbatch blis_close_thin_size.sh
+sbatch blis_spread_thin_size.sh

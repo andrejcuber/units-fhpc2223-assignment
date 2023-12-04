@@ -1,0 +1,55 @@
+Loading mkl version 2022.2.1
+Loading tbb version 2021.7.1
+Loading compiler-rt version 2022.2.1
+mkl float 1\n
+mkl double 1\n
+srun: error: thin001: task 0: Out Of Memory
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=94026.1. Some of your processes may have been killed by the cgroup out-of-memory handler.
+oblas float 1\n
+oblas double 1\n
+srun: error: thin001: task 0: Out Of Memory
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=94026.3. Some of your processes may have been killed by the cgroup out-of-memory handler.
+mkl float 2\n
+mkl double 2\n
+oblas float 2\n
+oblas double 2\n
+mkl float 3\n
+mkl double 3\n
+oblas float 3\n
+oblas double 3\n
+mkl float 4\n
+mkl double 4\n
+oblas float 4\n
+oblas double 4\n
+mkl float 5\n
+mkl double 5\n
+oblas float 5\n
+oblas double 5\n
+mkl float 6\n
+mkl double 6\n
+oblas float 6\n
+oblas double 6\n
+mkl float 7\n
+mkl double 7\n
+oblas float 7\n
+oblas double 7\n
+mkl float 8\n
+mkl double 8\n
+oblas float 8\n
+oblas double 8\n
+mkl float 9\n
+mkl double 9\n
+oblas float 9\n
+oblas double 9\n
+mkl float 10\n
+mkl double 10\n
+oblas float 10\n
+oblas double 10\n
+mkl float 11\n
+mkl double 11\n
+oblas float 11\n
+oblas double 11\n
+mkl float 12\n
+mkl double 12\n
+oblas float 12\n
+oblas double 12\n
